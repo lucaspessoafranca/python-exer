@@ -10,3 +10,4 @@ except:
 else:
     print('\033[35mDeu certo! \033[m')
     print(site.read())
+    menu(['opc1','opc2'])
