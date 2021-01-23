@@ -1,0 +1,1 @@
+from reduzindo.utilidades import moeda, dado
